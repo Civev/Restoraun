@@ -6,6 +6,7 @@ D:\programming\University\ООП\Restoran\Restoraun\bin\Debug\net6.0\Restoraun.d
 D:\programming\University\ООП\Restoran\Restoraun\bin\Debug\net6.0\Restoraun.runtimeconfig.json
 D:\programming\University\ООП\Restoran\Restoraun\bin\Debug\net6.0\Restoraun.dll
 D:\programming\University\ООП\Restoran\Restoraun\bin\Debug\net6.0\Restoraun.pdb
+D:\programming\University\ООП\Restoran\Restoraun\bin\Debug\net6.0\Newtonsoft.Json.dll
 D:\programming\University\ООП\Restoran\Restoraun\obj\Debug\net6.0\Restoraun.csproj.AssemblyReference.cache
 D:\programming\University\ООП\Restoran\Restoraun\obj\Debug\net6.0\Restoraun.GeneratedMSBuildEditorConfig.editorconfig
 D:\programming\University\ООП\Restoran\Restoraun\obj\Debug\net6.0\Restoraun.AssemblyInfoInputs.cache
@@ -24,10 +25,9 @@ D:\programming\University\ООП\Restoran\Restoraun\obj\Debug\net6.0\staticwebas
 D:\programming\University\ООП\Restoran\Restoraun\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\programming\University\ООП\Restoran\Restoraun\obj\Debug\net6.0\scopedcss\bundle\Restoraun.styles.css
 D:\programming\University\ООП\Restoran\Restoraun\obj\Debug\net6.0\scopedcss\projectbundle\Restoraun.bundle.scp.css
+D:\programming\University\ООП\Restoran\Restoraun\obj\Debug\net6.0\Restoraun.csproj.CopyComplete
 D:\programming\University\ООП\Restoran\Restoraun\obj\Debug\net6.0\Restoraun.dll
 D:\programming\University\ООП\Restoran\Restoraun\obj\Debug\net6.0\refint\Restoraun.dll
 D:\programming\University\ООП\Restoran\Restoraun\obj\Debug\net6.0\Restoraun.pdb
 D:\programming\University\ООП\Restoran\Restoraun\obj\Debug\net6.0\Restoraun.genruntimeconfig.cache
 D:\programming\University\ООП\Restoran\Restoraun\obj\Debug\net6.0\ref\Restoraun.dll
-D:\programming\University\ООП\Restoran\Restoraun\bin\Debug\net6.0\Newtonsoft.Json.dll
-D:\programming\University\ООП\Restoran\Restoraun\obj\Debug\net6.0\Restoraun.csproj.CopyComplete
